@@ -6,6 +6,6 @@ see the test page for LazyLoad.
 var path = require('path');
 var express = require('express');
 var app = express();
-app.use(express.static(path.join(__dirname, '7fen')));
+app.use(express.static(path.join(__dirname, '7fen'), {maxAge:31536000}));
 app.listen(7777);
 console.log("server start at : 7777");

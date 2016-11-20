@@ -1,6 +1,6 @@
 body{
 	margin:0;
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
 	background: #fff;
 }
 body a{
@@ -13,7 +13,7 @@ body a{
 }
 h1,h2,h3,h4,h5,h6{
 	margin:0;	
-	font-family: 'Stint Ultra Condensed', cursive;
+	/*font-family: */
 }
 p{
 	margin:0;
@@ -91,7 +91,7 @@ ul.social-icons{
     font-size: 1.5em;
     text-align: right;
     font-weight: 100;
-    font-family: 'Stint Ultra Condensed', cursive;
+    /*font-family: 'Stint Ultra Condensed', cursive;*/
     letter-spacing: 4px;
 }
 .banner-top-right p span.glyphicon{
@@ -150,10 +150,10 @@ ul.nav.navbar {
     letter-spacing: 6px;
     font-size: 1.8em;
     color: #fff;
-    font-family: 'Stint Ultra Condensed', cursive;
+    /*font-family: 'Stint Ultra Condensed', cursive;*/
     position: relative;
     font-weight: 100;
-    padding: .5em 1.5em;
+    padding: .5em .8em;
 }
 .nav > li > a:hover, .nav > li > a:focus {
     background: none;
@@ -312,7 +312,7 @@ h3.title,h2.title{
 }
 .welcome h5 {
     font-size: 2em;
-    font-family: 'Roboto Condensed', sans-serif;
+    /*font-family: 'Roboto Condensed', sans-serif;*/
     font-weight: 800;
     margin: 2em 1em 1em;
     position: relative;
@@ -866,7 +866,7 @@ h3.title,h2.title{
     color: #999;
     font-size: 1em;
     padding: 10px 15px;
-    font-family: 'Roboto Condensed', sans-serif;
+    /*font-family: 'Roboto Condensed', sans-serif;*/
     border: 3px solid #999;
     margin-bottom: 1em;
 }
@@ -881,7 +881,7 @@ h3.title,h2.title{
     transition: .5s all;
     -webkit-transition: .5s all;
     -moz-transition: .5s all;
-    font-family: 'Roboto Condensed', sans-serif;
+    /*font-family: 'Roboto Condensed', sans-serif;*/
 }
 .footer input[type="submit"]:hover {
     color: #21b2a6;
@@ -975,7 +975,7 @@ h3.title,h2.title{
 }
 .top-nav ul li a {
     font-size: 1.7em;
-    padding: .5em 1.2em;
+    padding: .5em .6em;
 }
 .welcome {
     padding: 6em 0;
@@ -1151,7 +1151,7 @@ h3.title,h2.title{
 }
 .top-nav ul li a {
     font-size: 1.4em;
-    padding: .3em 0.9em;
+    padding: .3em 0.2em;
 }
 .welcome {
     padding: 4em 0;
