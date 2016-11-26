@@ -152,7 +152,7 @@ ul.nav.navbar {
     color: #fff;
     /*font-family: 'Stint Ultra Condensed', cursive;*/
     position: relative;
-    font-weight: 100;
+    font-weight: bold;
     padding: .5em .8em;
 }
 .nav > li > a:hover, .nav > li > a:focus {
