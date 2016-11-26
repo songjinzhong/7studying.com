@@ -78,3 +78,20 @@ if ( typeof define === 'function' && define.amd ) {
 }
 
 })( window );
+
+
+/*
+  songjz
+ */
+
+(function(){
+  if(document.body.offsetWidth<=750){
+    var s = document.getElementsByClassName('menu')[0];
+    s.addEventListener('click',function(){
+      var d = document.getElementsByClassName('navbar-collapse collapse in')[0];
+      if(d){
+        d.className = d.className.replace(' in',"");
+      }
+    })
+  }
+})()

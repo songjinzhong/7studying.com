@@ -125,7 +125,7 @@ ul.social-icons{
 .top-nav {
     z-index: 999;
     background: rgba(255, 255, 255, 0.18);
-    padding: 1em 0;
+    padding: 0.5em 0;
 }
 nav.navbar.navbar-default {
     background-color: inherit;
@@ -148,7 +148,7 @@ ul.nav.navbar {
 .top-nav ul li a {
     text-decoration: none;
     letter-spacing: 6px;
-    font-size: 1.8em;
+    font-size: 1.6em;
     color: #fff;
     /*font-family: 'Stint Ultra Condensed', cursive;*/
     position: relative;
@@ -291,7 +291,7 @@ ul.nav.navbar {
     margin: 0 auto;
     left: 0;
     background: #000;
-    padding: 1.2em 0;
+    padding: 0.5em 0;
 }
 /*--//top-nav--*/
 /*--welcome--*/
@@ -974,7 +974,7 @@ h3.title,h2.title{
     margin-top: 0.8em;
 }
 .top-nav ul li a {
-    font-size: 1.7em;
+    font-size: 1.5em;
     padding: .5em .6em;
 }
 .welcome {
@@ -1150,7 +1150,7 @@ h3.title,h2.title{
     letter-spacing: 8px;
 }
 .top-nav ul li a {
-    font-size: 1.4em;
+    font-size: 1.2em;
     padding: .3em 0.2em;
 }
 .welcome {
@@ -1384,6 +1384,7 @@ button.navbar-toggle {
     display: block;
 	width: 100%;
 	margin: 0;
+    padding:2px 3px;
 }
 .top-nav ul li {
     display: block;
@@ -1491,7 +1492,7 @@ button.navbar-toggle {
     font-size: 1.5em;
 }
 .top-nav ul li a {
-    font-size: 1.3em;
+    font-size: 1.1em;
     padding: .3em 0.9em;
     letter-spacing: 2px;
 }
