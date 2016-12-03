@@ -916,7 +916,7 @@ h3.title,h2.title{
     padding-top: 3em;
 }
 .banner-text h1 {
-    font-size: 12em;
+    font-size: 11em;
     letter-spacing: 20px;
 }
 .banner-text {
@@ -965,7 +965,7 @@ h3.title,h2.title{
     padding: 11em 0 14em;
 }
 .banner-text h1 {
-    font-size: 11em;
+    font-size: 10em;
     letter-spacing: 19px;
 }
 .banner-text p {
@@ -1073,7 +1073,7 @@ h3.title,h2.title{
 }
 @media(max-width:1024px){
 .banner-text h1 {
-    font-size: 10em;
+    font-size: 9em;
     letter-spacing: 15px;
 }
 .banner-text p {
@@ -1143,7 +1143,7 @@ h3.title,h2.title{
     float: right;
 }
 .banner-text h1 {
-    font-size: 9em;
+    font-size: 7em;
     letter-spacing: 11px;
 }
 .banner-text p {
@@ -1346,7 +1346,7 @@ h3.title,h2.title{
 }
 @media(max-width:768px){
 .banner-text h1 {
-    font-size: 8em;
+    font-size: 6em;
     letter-spacing: 10px;
 }
 .banner-text p {
@@ -1409,7 +1409,7 @@ div#bs-example-navbar-collapse-1 {
 }
 @media(max-width:640px){
 .banner-text h1 {
-    font-size: 7em;
+    font-size: 5em;
     letter-spacing: 8px;
 }
 .banner-text p {
@@ -1479,7 +1479,7 @@ div#bs-example-navbar-collapse-1 {
 }
 @media(max-width:480px){
 .banner-text h1 {
-    font-size: 5em;
+    font-size: 3em;
     letter-spacing: 6px;
 }
 .banner-text p {
@@ -1671,7 +1671,7 @@ h3.title,h2.title{
 }
 @media(max-width:375px){
 .banner-text h1 {
-    font-size: 4.5em;
+    font-size: 3.5em;
     letter-spacing: 3px;
 }
 .banner-text p {
@@ -1745,7 +1745,7 @@ h3.title,h2.title{
     letter-spacing: 1px;
 }
 .banner-text h1 {
-    font-size: 4em;
+    font-size: 3em;
     letter-spacing: 2px;
 }
 .banner-text p {
@@ -1823,3 +1823,35 @@ h3.title,h2.title{
 }
 }
 /*--//responsive-design---*/
+/* songjinzhong */
+.banner-top-left,.banner-top-right{
+    margin-top:10px;
+}
+.sjz{
+    margin-bottom: 25px;
+}
+.w-sjz{
+    font-size: 30px!important;
+}
+.s-img{
+    max-width: 250px;
+}
+.s-top{
+    margin-top:30px;
+}
+.none{
+    display: none;
+}
+.s-footer{
+    margin: 3em 0 0;
+    padding: 2em 0;
+    text-align: center;
+    font-size: 1.1em;
+    color: #999;
+    line-height: 1.8em;
+}
+@media(max-width:420px){
+    .address-right{
+        margin-top: 15px;
+    }
+}
