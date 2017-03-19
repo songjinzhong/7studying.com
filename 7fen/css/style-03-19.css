@@ -652,7 +652,7 @@ h3.title,h2.title{
     color: #fff;
 }
 .portfolio-modal .close-modal {
-    position: absolute;
+    position: fixed;
     top: 25px;
     right: 25px;
     width: 75px;
